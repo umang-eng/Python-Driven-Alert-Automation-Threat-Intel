@@ -1,0 +1,17 @@
+# Security / Environment Variables
+.env
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Data Storage
+data/
+data/input_logs/
+data/output_reports/
